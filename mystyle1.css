@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+.navbar-logo{
+	width:200px;
+	padding-top:6px;
+	padding-left:100px;
+}
+.carousel{
+	height:500px;
+	background-color:#000;
+	}
+.carousel item{
+	height:500px;
+	background-color:#000;
+	}
+.item img{
+	width:100%;
+}
+
+
+.copyright{
+	text-align:center;
+	padding-bottom:2rem;
+}
